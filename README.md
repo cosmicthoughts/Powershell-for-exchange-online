@@ -1,6 +1,6 @@
 # Essential PowerShell Commands for Exchange Online (Hybrid Environment)
 
-A collection of **10 useful PowerShell commands** for managing Exchange Online in a **hybrid setup**. These commands help with mailbox management, delegation, forwarding, archiving, migrations, and more.
+A collection of useful PowerShell commands for managing Exchange Online in a hybrid setup. These commands help with mailbox management, delegation, forwarding, archiving, migrations, and more.
 ---
 ## Overview
 
